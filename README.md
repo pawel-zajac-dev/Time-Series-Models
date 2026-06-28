@@ -2,7 +2,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458)
 ![Statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-green)
 ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-orange)
-
 # Time Series Models
 
 A collection of practical time series analysis and forecasting projects implemented in Python, covering statistical models, exponential smoothing methods, and modern forecasting techniques.
@@ -27,8 +26,3 @@ A collection of practical time series analysis and forecasting projects implemen
 - Model selection (AIC/BIC)
 - Forecast evaluation (RMSE, MAE, MAPE)
 - Rolling forecasting & backtesting
-
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458)
-![Statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-green)
-![Prophet](https://img.shields.io/badge/Prophet-Forecasting-orange)
