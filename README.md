@@ -4,7 +4,7 @@
 ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-orange)
 # Time Series Models
 
-A collection of practical time series analysis and forecasting projects implemented in Python, covering statistical models, exponential smoothing methods, and modern forecasting techniques.
+Time series analysis and forecasting with statistical models, exponential smoothing, and curve-fitting techniques.
 
 ## Models
 
